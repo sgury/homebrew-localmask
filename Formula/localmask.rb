@@ -3,7 +3,7 @@ class Localmask < Formula
 
   desc "Privacy-first secret & PII masking for code — 100% local, no phone-home"
   homepage "https://www.localmaskpro.com"
-  url "https://files.pythonhosted.org/packages/source/l/localmask/localmask-0.9.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/a0/99/08450658c16cea2244c258f5fbdc309d45a290a2b39ed6c40b7898e8ca06/localmask-0.9.0.tar.gz"
   sha256 "dd258c3d5bf89224a61bf730a9d76ed51a633c81aa0e87f3c17e974ff098cb2c"
   license "MIT"
 
